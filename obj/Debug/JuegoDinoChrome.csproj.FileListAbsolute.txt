@@ -1,0 +1,10 @@
+C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\bin\Debug\JuegoDinoChrome.exe.config
+C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\bin\Debug\JuegoDinoChrome.exe
+C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\bin\Debug\JuegoDinoChrome.pdb
+C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.csprojAssemblyReference.cache
+C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.Form1.resources
+C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.Properties.Resources.resources
+C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.csproj.GenerateResource.cache
+C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.csproj.CoreCompileInputs.cache
+C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.exe
+C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.pdb
