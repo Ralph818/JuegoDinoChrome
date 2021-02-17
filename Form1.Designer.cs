@@ -89,7 +89,6 @@
             this.GameOver.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.GameOver.TabIndex = 3;
             this.GameOver.TabStop = false;
-            this.GameOver.Visible = false;
             this.GameOver.Click += new System.EventHandler(this.GameOver_Click);
             // 
             // Dino
