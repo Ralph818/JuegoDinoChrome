@@ -8,3 +8,13 @@ C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.cspr
 C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.csproj.CoreCompileInputs.cache
 C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.exe
 C:\Users\YamiletGIGA\source\repos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.pdb
+D:\GIGA\Proyectos\JuegoDinoChrome\bin\Debug\JuegoDinoChrome.exe.config
+D:\GIGA\Proyectos\JuegoDinoChrome\bin\Debug\JuegoDinoChrome.exe
+D:\GIGA\Proyectos\JuegoDinoChrome\bin\Debug\JuegoDinoChrome.pdb
+D:\GIGA\Proyectos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.Form1.resources
+D:\GIGA\Proyectos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.Properties.Resources.resources
+D:\GIGA\Proyectos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.csproj.GenerateResource.cache
+D:\GIGA\Proyectos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.csproj.CoreCompileInputs.cache
+D:\GIGA\Proyectos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.exe
+D:\GIGA\Proyectos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.pdb
+D:\GIGA\Proyectos\JuegoDinoChrome\obj\Debug\JuegoDinoChrome.csprojAssemblyReference.cache

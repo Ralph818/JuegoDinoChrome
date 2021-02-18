@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.VisualBasic;
 
 namespace JuegoDinoChrome
 {
@@ -17,7 +18,7 @@ namespace JuegoDinoChrome
         int PosicionInicialPisoY;
         int Velocidad = 5;
 
-        bool BrincoDelDino;
+        bool BrincoDelDino = false;
         bool InicioJuego = true;
 
         Random RnTipoObstaculo;
@@ -30,9 +31,12 @@ namespace JuegoDinoChrome
 
         public void IniciarJuego()
         {
+            Velocidad = Convert.ToInt32(Microsoft.VisualBasic.Interaction.InputBox("Selecciona el nivel deseado: \n[3 - Fácil; 5 - Normal; 7 - Difícil]", "Seleccionar nivel", "5"));
+
             CambioApariencia = 0;
             BrincoDelDino = false;
             lblPuntuacion.Text = "0";
+
             RnTipoObstaculo = new Random();
             ListaObstaculos = new List<PictureBox>();
 
@@ -40,8 +44,13 @@ namespace JuegoDinoChrome
 
             PosicionInicialPisoX = 12;
             PosicionInicialPisoY = 197;
+
             lblGo.Visible = false;
             GameOver.Visible = false;
+
+            this.Focus();
+            
+            
             
         }
 
@@ -154,6 +163,7 @@ namespace JuegoDinoChrome
                         timer3.Stop();
                         GameOver.Visible = true;
                         lblGo.Visible = true;
+
                         this.Controls.Remove(ListaObstaculos[i]);
                         ListaObstaculos.Remove(ListaObstaculos[i]);
                         
